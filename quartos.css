@@ -1,0 +1,253 @@
+html {
+    width: auto;
+    height: auto;
+}
+
+@font-face {
+    font-family: 'Patrick Hand', cursive;
+    src: url('Fontes\PatrickHand-Regular.ttf');
+}
+
+h2 {
+    font-family: 'Patrick Hand', cursive;
+}
+
+.main {
+    width: 90%;
+    margin: auto;
+    background-image: url(Fotos/Adamascado-Prata.jpg.pagespeed.ce.MFRLO19p57.jpg);
+    background-position: center;
+}
+
+.topo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.bird {
+    width: 78%;
+    background-image: url(Fotos/bird.png);
+    background-repeat: no-repeat;
+    background-size: 100% 90%;
+    background-position: bottom center;
+    height: 300px;
+    margin: auto;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    padding: 10px;
+}
+
+.menu_item{
+    background-color: rgb(0, 0, 0);
+    border-radius: 80px;
+    -webkit-box-shadow: 3px -2px 18px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 3px -2px 18px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 3px -2px 18px 0px rgba(0, 0, 0, 0.75);
+    margin: 0 5px;
+    height: 25px;
+}
+
+.menu_item:hover {
+    background-color: rgb(255, 255, 255);
+    border-radius: 80px;
+    transition-duration: 0.3s;
+}
+
+.link {
+    text-decoration: none;
+    padding: 0px 14px;
+    height: 25px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.link:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+.eco {
+    display: flex;
+    margin: auto;
+    margin-top: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.quarto_eco {
+    margin: auto 10%;
+    border-radius: 111px 111px 111px 111px;
+    -moz-border-radius: 111px 111px 111px 111px;
+    -webkit-border-radius: 111px 111px 111px 111px;
+    border: 8px double #000000;
+}
+
+.img_li {
+    border-radius: 111px 111px 111px 111px;
+    -moz-border-radius: 111px 111px 111px 111px;
+    -webkit-border-radius: 111px 111px 111px 111px;
+    border: 3px solid #000000;
+}
+
+.galeria {
+    width: 80%;
+    margin: auto;
+    list-style: none;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.galeria li {
+    margin: 5px;
+}
+
+.galeria li:hover{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition-duration: 0.3s;
+}
+
+.galeria img {
+    width: 150px;
+    height: 100px;
+}
+
+.full {
+    display: none;
+}
+
+.full:target {
+    display: block;
+    position: fixed;
+    background: rgba(0, 0, 0, 0.8);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+}
+
+.full h3 {
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    margin: 15px 0;
+}
+
+.imagem {
+    width: 100%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagem a {
+    color: #fff;
+    font-size: 40px;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.imagem a:nth-child(2) {
+    margin: 0;
+    height: 100%;
+    flex-shrink: 2;
+    display: flex;
+    justify-content: center;
+}
+
+.imagem img {
+    width: 70%;
+    height: 100%;
+    max-width: 100%;
+    border: 7px solid #fff;
+    box-sizing: border-box;
+}
+
+.fechar {
+    display: block;
+    background: #fff;
+    width: 25px;
+    height: 25px;
+    margin: auto;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+    color: #000;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 50%;
+    line-height: 25px;
+}
+
+fieldset{
+    background-color: rgba(255, 255, 255, 0.70);
+}
+
+@media all and (max-width: 1050px) {
+    .menu {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 0;
+    }
+
+    .menu_item {
+        margin: 10px 0;
+    }
+
+    .bird{
+        background-image: url();
+        height: 240px;
+    }
+
+    .logo{
+        width: 360px;
+        height: 240px;
+    }
+
+    .eco{
+        display: flex;
+        flex-direction: column;
+    }
+
+}
+
+@media all and (max-width: 720px) {
+    .galeria {
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media all and (max-width: 680px) {
+    .imagem{
+        height: 65vh;
+    }
+
+    .imagem a:nth-child(2){
+        align-items: center;
+    }
+
+    .imagem img{
+        height: 50vh;
+    }
+}

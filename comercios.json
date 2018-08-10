@@ -1,0 +1,739 @@
+[
+    {
+        "id":"Restaurante",
+        "nome": "Famiglia Muccini",
+        "endereco": "Avenida Nossa Sra. dos Navegantes, 140",
+        "cep": "58039-110",
+        "telefone": ["3226-8588", ""],
+        "horario":"Domingo a domingo, das 12h às 15h e 18h à 00h",
+        "descricao":"Restaurante de comida italiana bem conceituado na capital",
+        "distancia": "0.1km",
+        "social":{
+            "facebook":"https://www.facebook.com/FamigliaMuccini"
+                    }
+        },      {
+        "id":"Restaurante",
+        "nome": "NAU Frutos do Mar",
+        "endereco": "Rua Lupercio Branco, 130",
+        "cep": "58038-110",
+        "telefone": ["3021-8003", ""],
+        "horario":"Domingo a quarta, das 11:30h às 15:30 e 18h às 22h;<br> Quinta a sábado, das 11:30 às 15:30 e 18h às 23h.",
+        "descricao":"Restaurante de peixes e frutos do mar bem conceituado na capital",
+        "distancia": "0.7km",
+        "social":{
+            "facebook": "https://www.facebook.com/NauRestaurante",
+            "instagran": "http://instagram.com/naurestaurante",
+            "site": "http://site.naufrutosdomar.com.br/"
+                    }
+        },      {
+        "id":"Restaurante",
+        "nome": "Toca do Cajú",
+        "endereco": "Avenida Nossa Senhora dos Navegantes, 750",
+        "cep": "58039-110",
+        "telefone": ["2107-8700", "3247-3002"],
+        "horario":"Domingo a domingo, das 7h às 11h, das 11:30h às 15h e das 18:30 às 23h",
+        "descricao":"Restaurante com pratos regionais e rodízio de carne",
+        "distancia": "0.4km",
+        "social":{
+            "facebook":"https://www.facebook.com/pages/Toca-do-Caju/191209997576508"
+                    }
+        },      {
+        "id":"Restaurante",
+        "nome": "Yokan",
+        "endereco": "Avenida Indio Arabutan, 221",
+        "cep": "58045-040",
+        "telefone": ["3247-5429", "3024-7730"],
+        "horario":"De terça a quinta, das 18h à 00h; domingo, das 9h às 17h.",
+        "descricao":"Restaurante de comida japonesa",
+        "distancia": "0.9km",
+        "social":{
+            "facebook":"https://www.facebook.com/pages/Yokan-Restaurante-Japon%C3%AAs/157752134285357"
+                    }
+        },      {
+        "id":"Lazer",
+        "nome": "Mercado de Artesanato",
+        "endereco": "Avenida Rui Carneiro, 241",
+        "cep": "58032-000",
+        "telefone": ["3247-3135", ""],
+        "horario":"De segunda a sábado, das 9h às 19h; domingo, das 9h às 17h.",
+        "descricao":"Ponto turístico com diversas lojas de artesanato.",
+        "distancia": "0.4km",
+        "social":{
+            "facebook":"https://www.facebook.com/pages/Mercado-De-Artesanato-Da-Para%C3%ADba/217640341585344"
+                     }
+        },      {
+        "id":"Lanchonete",
+        "nome": "Açai da praia",
+        "endereco": "Avenida João Maurício, 945",
+        "cep": "58038-000",
+        "telefone": ["99996-0733", ""],
+        "horario":"De segunda a sábado, das 6h às 21h; domingo, das 6h às 12h.",
+        "descricao":"Lanchonete com salgados e açãí",
+        "distancia": "1.2km",
+        "social":{
+            "facebook":"https://pt-br.facebook.com/pages/A%C3%A7a%C3%AD-da-Praia-V2/114153105332350"
+                    }
+        },      {
+        "id":"Restaurante",
+        "nome": "Canoa dos Camarões",
+        "endereco": "Avenida João Mauricio, 121",
+        "cep": "58038-000",
+        "telefone": ["3247-2055", ""],
+        "horario":"De segunda a segunda, das 11h às 23:30h.",
+        "descricao":"Restaurante com variedades de pratos de peixes e frutos do mar.",
+        "distancia": "0.5km",
+        "social":{
+            "facebook":"https://www.facebook.com/pages/Toca-do-Caju/191209997576508"
+                    }
+        },      {
+        "id":"Restaurante",
+        "nome": "Gulliver Restaurante",
+        "endereco": "Avenida Nossa Senhora dos Navegantes, 750",
+        "cep": "58039-110",
+        "telefone": ["2107-8700", "3247-1495"],
+        "horario":"De domingo a quinta, das 12h às 16h e 19h às 23:30h; <br>Sexta e sábado, das 12h às 16h e 19h à 00h.",
+        "descricao":"Restaurante com diversos pratos regionais.",
+        "distancia": "0.5km",
+        "social":{
+            "facebook":"https://www.facebook.com/pages/Toca-do-Caju/191209997576508",
+            "site": "https://restaurantegulliver.negocio.site/"
+                    }
+        },      {
+        "id": "Sorveteria",
+        "nome": "Friberg",
+        "endereco": "Avenida João Maurício, 97",
+        "cep": "58038-000",
+        "telefone": ["3247-0599", ""],
+        "horario": "De segunda a segunda, das 10:30h às 22:30h.",
+        "descricao": "Sorveteria com diversos sabores.",
+        "distancia": "0.4km",
+        "social":{
+            "facebook":"https://pt-br.facebook.com/SorveteriaFriberg/",
+            "email": "fribergbe@hotmail.com"
+                    }
+        },      {
+        "id":"Restaurante",
+        "nome": "Casa Nordeste",
+        "endereco": "Avenida Almirante Tamandaré, 296",
+        "cep": "58039-010",
+        "telefone": ["3191-8835", "3191.8834"],
+        "horario":"De segunda a segunda, das 9h às 22h.",
+        "descricao":"Restaurante com diversas comidas regionais.",
+        "distancia": "0.1km",
+        "social":{
+            "facebook":"https://pt-br.facebook.com/CasaNordesteJP/",
+            "site": "http://www.casanordestepb.com.br/site/",
+            "instagran": "https://www.instagram.com/casanordestejp/",
+            "email": "caio@casanordeste.com.br"
+                    }
+        },      {
+        "id": "Lanchonete",
+        "nome": "Lion Creperia e Pizzaria",
+        "endereco": "Avenida Almirante Tamandaré, 634",
+        "cep": "58039-010",
+        "telefone": ["3247-2805", ""],
+        "horario": "Não consta.",
+        "descricao": "Restaurante pizzaria e creperia.",
+        "distancia": "0.5km",
+        "social":{
+            "facebook":"https://www.facebook.com/pages/Lion-Creperia-e-Pizzaria/100494513388284"
+                    }
+        },      {
+        "id": "Restaurante",
+        "nome": "Kyoto Sushi Bar",
+        "endereco": "Avenida Monsenhor Odilon Coutinho, 71",
+        "cep": "58045-120",
+        "telefone": ["3226-6587", ""],
+        "horario": "De terça a domingo, das 18h à 00h.",
+        "descricao": "Restaurante de comidas japonesas.",
+        "distancia": "1.3km",
+        "social":{
+            "facebook":"https://www.facebook.com/pages/Kyoto-Sushi-Bar/202635016414345"
+                    }
+        },      {
+        "id": "Restaurante",
+        "nome": "Bahamas",
+        "endereco": "Avenida Joao Maurico, 0",
+        "cep": "58046-165",
+        "telefone": ["3247-5877", ""],
+        "horario": "De domingo a quinta, das 11h às 23h; Sexta e sábado, das 11h à 1h",
+        "descricao": "Restaurante a beira mar de comidas brasileiras com música ao vivo.",
+        "distancia": "1.3km",
+        "social":{
+            "facebook":"https://www.facebook.com/Bahamas-Bar-1709779555970411/?rf=123148737830343",
+            "instagram": "https://www.instagram.com/restaurantebahamas/"
+                    }
+        },      {
+        "id": "Locadora",
+        "nome": "Alucar Locadora de Veículos",
+        "endereco": "Avenida Antônio Lira, 748",
+        "cep": "58039-050",
+        "telefone": ["3247-2600", ""],
+        "horario": "De segunda a sexta, das 8h às 18h; Sábado, 8h às 12h",
+        "descricao": "Locadora de carros",
+        "distancia": "0.7km",
+        "social":{
+            "facebook": "Não consta",
+            "email": "Não consta"
+                    }
+        },      {
+        "id": "Lanchonete",
+        "nome": "Mundial Lanches",
+        "endereco": "Avenida Olinda, 52",
+        "cep": "58033-455",
+        "telefone": ["3226-3277", ""],
+        "horario": "",
+        "descricao": "Lanchonete de cachorro-quente, caldo de cana e sanduíches",
+        "distancia": "0.2km",
+        "social":{
+            "site": "https://www.mundiallanches.com.br/",
+            "email": "contatomundiallanches@gmail.com",
+            "instagram": "https://www.instagram.com/mundiallanches/"
+                    }
+        },      {
+        "id": "Bar",
+        "nome": "Empório Café",
+        "endereco": "Rua Coração de Jesus, 145",
+        "cep": "58033-455",
+        "telefone": ["3247-0110", ""],
+        "horario": "Terça a quinta, 18h às 2h; Sexta a domingo, 18h às 5h.",
+        "descricao": "Bar com músicas ao vivo e bastante diversão",
+        "distancia": "0.2km",
+        "social":{
+            "facebook": "https://www.facebook.com/emporiocafe/",
+            "email": "emporiocafejp@gmail.com",
+            "instagram": "https://www.instagram.com/emporiocafe/"
+                    }
+        },      {
+        "id": "Bar",
+        "nome": "Companhia do Chopp",
+        "endereco": "Avenida Olinda, 65",
+        "cep": "58039-120",
+        "telefone": ["3247-5477", "3226-4875", "98710-3236", "99342-2222"],
+        "horario": "",
+        "descricao": "Bar para se divertir com amigos",
+        "distancia": "0.2km",
+        "social":{
+            "facebook": "https://www.facebook.com/pages/Cia-do-Chopp/156479757750152"
+                    }
+        },      {
+        "id": "Restaurante",
+        "nome": "HAO",
+        "endereco": "Rua Franca Filho, 96",
+        "cep": "58038-150",
+        "telefone": ["99175-6477", ""],
+        "horario": "Sexta e sábado, das 12h às 3h, domingo até às 23:30, quarta e quinta até às 2h; Terças das 19h até às 00h",
+        "descricao": "Restaurante de culinária contemporânea com influência asiática e japonesa.",
+        "distancia": "0.7km",
+        "social":{
+            "facebook": "https://www.facebook.com/haobrasil/",
+            "site": "http://www.haobr.com.br/",
+            "instagram": "https://www.instagram.com/haobr/"
+                    }
+        },      {
+        "id": "Bar",
+        "nome": "Giramundo",
+        "endereco": "Avenida Almirante Tamandaré, s/n",
+        "cep": "58039-010",
+        "telefone": ["3023-1660", ""],
+        "horario": "De segunda a sábado, das 17h à 00h",
+        "descricao": "Bar com diferentes bebidas, petiscos e comida regional com música ao vivo",
+        "distancia": "0.2km",
+        "social":{
+            "facebook": "https://www.facebook.com/giramundojp/?rf=208818915843040"
+                    }
+        },      {
+        "id": "Restaurante",
+        "nome": "Mangai",
+        "endereco": "Avenida Edson Ramalho, 696",
+        "cep": "58038-100",
+        "telefone": ["3226.1615", ""],
+        "horario": "De segunda a segunda, das 11h às 22h",
+        "descricao": "Restaurante de culinária regional e de referência.",
+        "distancia": "1.4km",
+        "social":{
+            "facebook": "https://www.facebook.com/RestauranteMangai",
+            "site": "http://mangai.com.br/unidades/manaira/",
+            "instagram": "https://www.instagram.com/mangairestaurantes/"
+                    }
+        },      {
+        "id": "Lanchonete",
+        "nome": "Mundo dos pasteis",
+        "endereco": "Rua Nícola Porto, 256",
+        "cep": "58038-120",
+        "telefone": ["3227-0680", ""],
+        "horario": "Terça a sexta, das 17h à 00h; Sábado e domingo das 17:30 à 00h.",
+        "descricao": "Lanchonete com diversos sabores de pasteis.",
+        "distancia": "0.8km",
+        "social":{
+            "facebook": "https://www.facebook.com/pages/Mundo-dos-Past%C3%A9is/151155231617094"
+                    }
+        },      {
+        "id": "Restaurante",
+        "nome": "Picanha do Bastos Gold",
+        "endereco": "Avenida Almirante Tamandaré, 900",
+        "cep": "58039-010",
+        "telefone": ["3031-1099", ""],
+        "horario": "Segunda a segunda, das 11h à 00h.",
+        "descricao": "Restaurante bem conceituado na orla da capital com rodízio de carne.",
+        "distancia": "0.5km",
+        "social":{
+            "facebook": "https://www.facebook.com/picanhadobastosgoldoficial/",
+            "site": "http://picanhadobastos.com.br/bastos-gold/"
+                    }
+        },      {
+        "id": "Restaurante",
+        "nome": "Osaka",
+        "endereco": "Avenida Coração de Jesus, 92",
+        "cep": "58039-070",
+        "telefone": ["3247-1606", ""],
+        "horario": "Terça a sábado, das 11h às 15h e 18h à 00h; Domingo das 11h às 16h e 18h às 23h.",
+        "descricao": "Restaurante de comidas chinesas e japonesas.",
+        "distancia": "0.3km",
+        "social":{
+            "facebook": "https://www.facebook.com/OsakaJoaoPessoa/",
+            "site": "http://restauranteosaka.com.br/"
+                    }
+        },      {
+        "id": "Lanchonete",
+        "nome": "Tartaruga Burguer",
+        "endereco": "Avenida Almirante Tamandaré, 558.",
+        "cep": "58039-010",
+        "telefone": ["3021-0913", ""],
+        "horario": "Domingo a quinta, das 11h à 00h; Sexta e sábado, das 11h à 1h.",
+        "descricao": "Lanchonete com divertos tipos de sanduíches.",
+        "distancia": "0.3km",
+        "social":{
+            "site": "http://tartarugaburguer.com.br/home"
+                    }
+        },      {
+        "id": "Lanchonete",
+        "nome": "Bobs",
+        "endereco": "Avenida Almirante Tamandaré, 512.",
+        "cep": "58039-010",
+        "telefone": ["3247-1112", ""],
+        "horario": "Domingo a quarta, das 12h às 23h; Quinta a sábado, das 12h às 3h.",
+        "descricao": "Lanchonete com variádos tipos de sanduíches.",
+        "distancia": "0.2km",
+        "social":{
+            "facebook": "https://www.facebook.com/BobsTambau/",
+            "site": "https://www.bobs.com.br/"
+                    }
+        },      {
+        "id": "Lazer",
+        "nome": "Farol do Cabo Branco",
+        "endereco": "Avenida Cabo Branco",
+        "cep": "58045-010",
+        "telefone": ["3218-9850", ""],
+        "horario": "Domingo a domingo, das 9h às 20h",
+        "descricao": "Farol em formato triangular, localizado próximo ao ponto mais oriental das Américas.",
+        "distancia": "4.1km",
+        "social":{
+            "site": "https://turismo.joaopessoa.pb.gov.br/o-que-fazer/pontos-turisticos/monumentos-historicos/farol-do-cabo-branco/"
+                    }
+        },      {
+        "id": "Lazer",
+        "nome": "Feirinha de artesanato Tambaú",
+        "endereco": "Avenida Almirante Tamandaré, 229",
+        "cep": "58039-010",
+        "telefone": ["99956-0943", ""],
+        "horario": "Segunda a segunda, das 9h às 22h",
+        "descricao": "Espaço turístico de artesanato com diversos produtos regionais.",
+        "distancia": "0.2km",
+        "social":{
+            "facebook": "https://www.facebook.com/feirinhadetambau",
+            "site": "https://turismo.joaopessoa.pb.gov.br/o-que-fazer/pontos-turisticos/artesanato/feirinha-de-tambau/"
+                    }
+        },      {
+        "id": "Serviços",
+        "nome": "Casa Lotérica Tambaú",
+        "endereco": "Avenida Senador Ruy Carneiro, 195",
+        "cep": "58039-181",
+        "telefone": ["3247-3631", ""],
+        "horario": "Segunda a sábado, das 7:30h às 18h",
+        "descricao": "Casa lotérica Tambaú I",
+        "distancia": "0.3km",
+        "social":{
+            "facebook": "Não consta",
+            "site": ""
+                    }
+        },      {
+        "id": "Serviços",
+        "nome": "FastFrame | Moldura na Hora",
+        "endereco": "Avenida General Edson Ramalho, 205",
+        "cep": "58038-102",
+        "telefone": ["3247-3950", ""],
+        "horario": "Segunda a sexta, das 8:30h às 18:30; Sábado das 8:30h às 13h.",
+        "descricao": "Loja para diversos tipos de molduras, quadros, redes e muito mais.",
+        "distancia": "0.6",
+        "social":{
+            "facebook": "https://www.facebook.com/pages/Fast-Frame-Moldura-Na-Hora/633256260024720",
+            "site": "https://fastframe.com.br/joaopessoapb"
+                    }
+        },      {
+        "id": "Serviços",
+        "nome": "Tutto Bianco",
+        "endereco": "Avenida Nego, 197.",
+        "cep": "58039-100",
+        "telefone": ["3247-4743", "32680277"],
+        "horario": "Segunda a sexta, das 8h às 18h; Sábado das 8h às 14h.",
+        "descricao": "Lanvanderia de roupas com serviço delivery.",
+        "distancia": "0.4km",
+        "social":{
+            "facebook": "https://www.facebook.com/tuttobiancolavanderia",
+            "site": "http://www.tuttobianco.net/"
+                    }
+        },      {
+        "id": "Serviços",
+        "nome": "Lavamatic Lavanderia",
+        "endereco": "Rua Carlos Alverga, 37",
+        "cep": "58038-020",
+        "telefone": ["3247-3737", ""],
+        "horario": "Segunda a sexta, das 8h às 19h; Sábado das 8h às 18h",
+        "descricao": "Lanvaderia de roupas.",
+        "distancia": "0.4km",
+        "social":{
+            "facebook": "Não consta",
+            "site": ""
+                    }
+        },      {
+        "id": "Serviços",
+        "nome": "Dry Clean Usa",
+        "endereco": "Avenida General Edson Ramalho, 274 , Loja 01.",
+        "cep": "58038-100",
+        "telefone": ["3247-7878", ""],
+        "horario": "Segunda a sexta, das 8h às 18h.",
+        "descricao": "Lanvaderia e serviços especializados com atendimento delivery.",
+        "distancia": "0.7km",
+        "social":{
+            "facebook": "https://www.facebook.com/drycleanusainternational/",
+            "site": "https://www.drycleanusa.com.br/joaopessoa/Coutinho"
+                    }
+        },      {
+        "id": "Serviços",
+        "nome": "Lavanderia Tambaú",
+        "endereco": "Rua José Augusto Trindade, 351",
+        "cep": "58039-020",
+        "telefone": ["3043-1612", ""],
+        "horario": "Segunda a sexta, das 8h às 18h; Sábado das 8h às 12h.",
+        "descricao": "Lavanderia de roupas.",
+        "distancia": "0.4km",
+        "social":{
+            "facebook": "https://www.facebook.com/Lavanderia-Tamba%C3%BA-726595124101914/",
+            "site": ""
+                    }
+        },      {
+        "id": "Serviços",
+        "nome": "Casa do Desenho Copiadora",
+        "endereco": "Avenida Senador Ruy Carneiro, 901",
+        "cep": "58039-181",
+        "telefone": ["3247-1544", ""],
+        "horario": "Segunda a sexta, das 8h às 18h; Sábado, das 8h às 12h.",
+        "descricao": "Copiadora e serviços relacionados.",
+        "distancia": "0.5km",
+        "social":{
+            "facebook": "Não consta",
+            "site": ""
+                    }
+        },      {
+        "id": "Serviços",
+        "nome": "Ateliêr Mirian Emília",
+        "endereco": "Avenida Nego, 200, Sala 110",
+        "cep": "58039-100",
+        "telefone": ["98839-9233", ""],
+        "horario": "Segunda a sexta, das 8h às 18h; Sábado, das 8h às 14h.",
+        "descricao": "Costura de roupas.",
+        "distancia": "0.1km",
+        "social":{
+            "facebook": "Não consta",
+            "site": ""
+                    }
+        },      {
+        "id": "Serviços",
+        "nome": "On Line Informática",
+        "endereco": "Avenida Nego, 520, Sala 103",
+        "cep": "58039-101",
+        "telefone": ["3247-1994", ""],
+        "horario": "Segunda a sexta, das 8h às 12h e das 14h às 18h.",
+        "descricao": "Venda e reparo de produtos de informática.",
+        "distancia": "0.4km",
+        "social":{
+            "facebook": "Não consta",
+            "site": ""
+                    }
+        },      {
+        "id": "Serviços",
+        "nome": "Eletrônica Joana Darc",
+        "endereco": "Av. Monteiro da Franca, 516 A",
+        "cep": "58038-151",
+        "telefone": ["3247-2703", "98869-2960"],
+        "horario": "Segunda a sexta, das 8h às 18h.",
+        "descricao": "Conserto e Peças para Aparelhos Elétricos e Eletrônicos",
+        "distancia": "0.8km",
+        "social":{
+            "facebook": "https://www.facebook.com/pages/Eletr%C3%B4nica-Joana-DArk/116039185145916",
+            "site": ""
+                    }
+        },      {
+        "id": "Serviços",
+        "nome": "Eletrônica Áudio Digital",
+        "endereco": "Avenida João Câncio da Silva, 811, Sala 102",
+        "cep": "58038-341",
+        "telefone": ["3247-4933", ""],
+        "horario": "Segunda a sexta, das 8h às 18h; Sábado, das 8h às 13h.",
+        "descricao": "Serviço de conserto de televisores.",
+        "distancia": "1.4km",
+        "social":{
+            "facebook": "Não consta",
+            "site": ""
+                    }
+        },      {
+        "id": "Farmácia",
+        "nome": "Farmaflora",
+        "endereco": "Rua Nossa Sra. dos Navegantes, 370, Sala 04 / 05",
+        "cep": "8039-111",
+        "telefone": ["247-6444", "3247-6820"],
+        "horario": "Segunda a segunda, das 7h às 22h.",
+        "descricao": "Farmácia com disk-entrega",
+        "distancia": "0.1km",
+        "social":{
+            "facebook": "https://www.facebook.com/Farmaflora-Medicamentos-327036517462181/",
+            "site": ""
+                    }
+        },      {
+        "id": "Farmácia",
+        "nome": "Homeovitae Farmácia Homeopática",
+        "endereco": "Av. Senador Ruy Carneiro, 434",
+        "cep": "58032-100",
+        "telefone": ["3247-1719", "98795-8838"],
+        "horario": "",
+        "descricao": "Farmácia de manipulação",
+        "distancia": "0.6",
+        "social":{
+            "site": "http://www.farmaciahomeovitae.com.br/contato/nossas-lojas/",
+            "facebook": ""
+                    }
+        },      {
+        "id": "Farmácia",
+        "nome": "Farmácia Dias",
+        "endereco": "Avenida Senador Ruy Carneiro, 215",
+        "cep": "58030-030",
+        "telefone": ["3219-6000", "3611-0649"],
+        "horario": "Segunda a sábado, das 7h às 23h; Domingo, das 8h às 22h.",
+        "descricao": "Farmácia",
+        "distancia": "0.5km",
+        "social":{
+            "facebook": "https://www.facebook.com/pages/Farmacia-Dias-Tambau/636651366454917",
+            "site": "Não consta"
+                    }
+        },      {
+        "id": "Farmácia",
+        "nome": "Farmácias Pague Menos",
+        "endereco": "Rua Helena Meira Lima, 203",
+        "cep": "58039-080",
+        "telefone": ["3034-4048", ""],
+        "horario": "Segunda a sábado, das 7h às 22:40; Domingo das 8h às 20h.",
+        "descricao": "Farmácia com delivery",
+        "distancia": "0.4km",
+        "social":{
+            "facebook": "https://www.facebook.com/farmaciaspaguemenos/",
+            "site": "https://www.paguemenos.com.br/"
+                    }
+        },      {
+        "id": "Serviços",
+        "nome": "Panificadora Bonfim",
+        "endereco": "Avenida José Augusto Trindade, 160",
+        "cep": "58039-020",
+        "telefone": ["3247-1146", "3221-2632"],
+        "horario": "Segunda a segunda, das 6h às 20:30h",
+        "descricao": "Panificadora bem conceituada com diversas variedades de alimentos",
+        "distancia": "0.7km",
+        "social":{
+            "facebook": "https://www.facebook.com/pages/Padaria-Bonfim/110608352359315",
+            "site": "http://www.panificadorabomfim.com.br/",
+            "instagram": "https://www.instagram.com/bomfimpanificadora/"
+                    }
+        },      {
+        "id": "Farmácia",
+        "nome": "Farmácia Parahyba",
+        "endereco": "Avenida Almirante Tamandaré, 548",
+        "cep": "58039-010",
+        "telefone": ["3225-3703", ""],
+        "horario": "",
+        "descricao": "Farmácia",
+        "distancia": "0.3km",
+        "social":{
+            "facebook": "Não consta",
+            "site": ""
+                    }
+        },      {
+        "id": "Farmácia",
+        "nome": "Drogasil",
+        "endereco": "R. Nossa Sra. dos Navegantes, 978.",
+        "cep": "58039-111",
+        "telefone": ["3031-3079", ""],
+        "horario": "Terça a sábado, atendimento 24h; Domingo, das 00h às 22h; Segunda, das 7h à 00h.",
+        "descricao": "Farmácia com delivery 24h",
+        "distancia": "0.7km",
+        "social":{
+            "facebook": "https://www.facebook.com/DrogasilOficial/",
+            "site": "https://www.drogasil.com.br/"
+                    }
+        },      {
+        "id": "Serviços",
+        "nome": "Supermercado Tambaú",
+        "endereco": "Rua Monteiro Lobato, 756.",
+        "cep": "58039-170",
+        "telefone": ["3227-0171", ""],
+        "horario": "Segunda a sábado, das 7h às 19h; Domingo das 7h às 12h.",
+        "descricao": "Supermercado com diversas variedades de produtos.",
+        "distancia": "1.1km",
+        "social":{
+            "facebook": "Não consta",
+            "site": ""
+                    }
+        },      {
+        "id": "Serviços",
+        "nome": "S.O.S Otorrino",
+        "endereco": "Rua Nossa Sra. dos Navegantes, 500.",
+        "cep": "58030-100",
+        "telefone": ["3247-6465", "99136-6246"],
+        "horario": "Segunda a segunda, atendimento 24h.",
+        "descricao": "Atendimento 24h com otorrinolaringologista",
+        "distancia": "0.3km",
+        "social":{
+            "facebook": "https://www.facebook.com/SosOtorrino",
+            "site": "http://www.sosotorrino.com.br/"
+                    }
+        },      {
+        "id": "Serviços",
+        "nome": "Clínica Dermatológica Santa Catarina",
+        "endereco": "Avenida Esperança, 165.",
+        "cep": "58038-282",
+        "telefone": ["3247-2262", "3247-5570", "99121-8958"],
+        "horario": "",
+        "descricao": "Clínica de pele e estética",
+        "distancia": "1.0km",
+        "social":{
+            "facebook": "https://www.facebook.com/ClinicaDermatologicaSantaCatarina",
+            "site": "http://www.clinicadermacatarina.com.br/"
+                    }
+        },      {
+        "id": "Serviços",
+        "nome": "Policlínica das Praias",
+        "endereco": "Avenida Senador Ruy Carneiro, 166.",
+        "cep": "58039-181",
+        "telefone": ["3578-8988", ""],
+        "horario": "",
+        "descricao": "Policlínica com diversos médicos.",
+        "distancia": "0.5",
+        "social":{
+            "facebook": "https://www.facebook.com/policlinicadaspraias/",
+            "instagram": "https://www.instagram.com/policlinicadaspraias/"
+                    }
+        },      {
+        "id": "Serviços",
+        "nome": "Supermercado Manaíra",
+        "endereco": "Avenida João Câncio da Silva, 493.",
+        "cep": "58038-340",
+        "telefone": ["3226-3993", "2613-8296"],
+        "horario": "Segunda a sexta, das 6:45h às 20:30; Sábado, das 7:30h às 20h; Domingo, das 7h às 13h.",
+        "descricao": "Supermercado com diversas variedades de produtos",
+        "distancia": "1.7km",
+        "social":{
+            "facebook": "https://www.facebook.com/Supermercado-Mana%C3%ADra-200642663295317/",
+            "site": ""
+                    }
+        },      {
+        "id": "Locadora",
+        "nome": "Ricardo Locadora de Veículos",
+        "endereco": "Avenida Antônio Lira, 295 - Sala 3",
+        "cep": "58039-050",
+        "telefone": ["3226-1117", ""],
+        "horario": "Segunda a sexta, das 8h às 18h; Sábado das 8h às 16h.",
+        "descricao": "Locadora de veículos.",
+        "distancia": "0.2km",
+        "social":{
+            "facebook": "https://www.facebook.com/Ricardo-locadora-de-veiculos-658410277556642/",
+            "site": ""
+                    }
+        },      {
+        "id": "Locadora",
+        "nome": "N2 Rent a Car",
+        "endereco": "Avenida Nego, 99",
+        "cep": "58039-100",
+        "telefone": ["98856-3942", "3566-8392", "3566-6389", "3045-8362"],
+        "horario": "",
+        "descricao": "Locadora de veículos",
+        "distancia": "0.1km",
+        "social":{
+            "facebook": "https://www.facebook.com/pages/N2-Rent-a-Car/774398049263686",
+            "site": ""
+                    }
+        },      {
+        "id": "Locadora",
+        "nome": "Paraíba Locadora",
+        "endereco": "Avenida Almirante Tamandaré, 822",
+        "cep": "58039-010",
+        "telefone": ["98832-0205", ""],
+        "horario": "Segunda a sexta, das 8h às 18h; Sábado, das 8h às 12:30h",
+        "descricao": "Locadora de veículos",
+        "distancia": "0.5km",
+        "social":{
+            "facebook": "Não consta",
+            "site": ""
+                    }
+        },      {
+        "id": "Locadora",
+        "nome": "Locadora de veiculos LUSA RENT A CAR",
+        "endereco": "Avenida Antônio Lira, 441",
+        "cep": "58039-050",
+        "telefone": ["99910-8778", "3247-7808"],
+        "horario": "Segunda a sexta, das 8:30h às 18h; Sábado, das 8:30h às 12:30h",
+        "descricao": "Locadora de veículos",
+        "distancia": "",
+        "social":{
+            "facebook": "https://www.facebook.com/lusarentcar/",
+            "site": ""
+                    }
+        },      {
+        "id": "Locadora",
+        "nome": "Montana Rent a Car ",
+        "endereco": "Avenida Antônio Lira, 541",
+        "cep": "58039-050",
+        "telefone": ["3566-1817", "98102-2641", "98839-1654"],
+        "horario": "Segunda a sexta, das 8h às 12h e 14h às 18h; Sábado e domingo das 8h às 12h.",
+        "descricao": "Locadora de veículos",
+        "distancia": "0.5km",
+        "social":{
+            "facebook": "https://www.facebook.com/MontanaAlugueldeCarros/",
+            "site": "http://montanarentacar.com.br/"
+                    }
+        },      {
+        "id": "Serviços",
+        "nome": "Unidade de Saúde das Praias",
+        "endereco": "Av. Olinda, s/n",
+        "cep": "58039-121",
+        "telefone": ["3214-8900", ""],
+        "horario": "Segunda a sexta, das 8h às 11h e das 12h às 17h.",
+        "descricao": "Atendimento público de saúde",
+        "distancia": "0.2km",
+        "social":{
+            "facebook": "https://www.facebook.com/pages/Unidade-de-Sa%C3%BAde-das-Praias/143090945763286",
+            "site": "http://portaldacidadania.pb.gov.br/Saude/Saude/UnidadeDeSaude/Listar"
+                    }
+        },      {
+        "id": "Serviços",
+        "nome": "Cartório Travassos",
+        "endereco": "Av. Nego, 366",
+        "cep": "58039-100",
+        "telefone": ["3221-2478", "3241.9439"],
+        "horario": "Segunda a sexta, das 9h às 18h.",
+        "descricao": "Cartório de registro civil.",
+        "distancia": "0.3km",
+        "social":{
+            "facebook": "https://www.facebook.com/cartoriotravassos/"
+                    }
+        }
+
+]

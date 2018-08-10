@@ -1,0 +1,190 @@
+html {
+    width: auto;
+    height: auto;
+}
+
+@font-face {
+    font-family: 'Patrick Hand', cursive;
+    src: url('Fontes\PatrickHand-Regular.ttf');
+}
+
+.main {
+    width: 70%;
+    margin: auto;
+    background-image: url(Fotos/Adamascado-Prata.jpg.pagespeed.ce.MFRLO19p57.jpg);
+    background-position: center;
+    
+}
+
+.topo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.bird {
+    background-image: url(Fotos/bird.png);
+    background-repeat: no-repeat;
+    background-size: 100% 90%;
+    background-position: bottom center;
+    height: 300px;
+    margin: auto;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    margin-top: 0;
+    padding: inherit;
+    padding-bottom: 20px;
+}
+
+.menu_item {
+    background-color: rgb(0, 0, 0);
+    border-radius: 80px;
+    -webkit-box-shadow: 3px -2px 18px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 3px -2px 18px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 3px -2px 18px 0px rgba(0, 0, 0, 0.75);
+    margin: 0 5px;
+    height: 25px;
+}
+
+.link {
+    text-decoration: none;
+    padding: 0px 14px;
+    height: 25px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.link:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+.menu_item:hover {
+    background-color: rgb(255, 255, 255);
+    border-radius: 80px;
+    transition-duration: 0.3s;
+}
+
+.opcoes {
+    background-color: rgba(255, 255, 255, 0.80);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 30px;
+}
+
+.text1{
+    font-size: 2em;
+    font-weight: bolder;
+    font-family: 'Patrick Hand', cursive;
+    padding-bottom: 50px;
+}
+
+.divopcao{
+    padding-right: 20px;
+}
+
+.itens {
+    margin: auto;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.80);
+    border-radius: 111px 111px 111px 111px;
+    -moz-border-radius: 111px 111px 111px 111px;
+    -webkit-border-radius: 111px 111px 111px 111px;
+    border: 8px double #000000;
+    margin-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h1, h4 {
+    margin-bottom: 0px;
+    margin-top: 15px;
+}
+
+.filter{
+    display: flex;
+    justify-content: space-around;
+}
+
+.filter input {
+    display: none;
+  }
+  
+.filter label {
+    border: 1px solid #000;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    padding: .2rem;
+    transition: all .3s;
+  }
+  
+.filter input:checked+label {
+    color: #ccc;
+    border-color: #ccc; 
+  }
+  
+.box{
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 20px;
+}
+
+@media all and (max-width: 1300px) {
+    
+    .opcoes{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 50px;
+
+    }
+    
+    .filter{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+
+@media all and (max-width: 970px) {
+    
+    .menu {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 0;
+    }
+
+    .menu_item {
+        margin: 10px 0;
+    }
+
+    .bird {
+        background-image: url();
+        height: 240px;
+    }
+
+    .logo {
+        width: 360px;
+        height: 240px;
+    }
+
+}

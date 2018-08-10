@@ -1,0 +1,27 @@
+Localizar empresas perto
+
+https://geolocal.com.br/bairro/tambau/joao-pessoa/pb
+https://www.apontador.com.br/
+https://www.guiamais.com.br
+https://kekanto.com.br
+https://www.yelp.com.br
+https://cloud.google.com/maps-platform/places/?hl=pt-br
+
+
+https://blogmarketingonline.com.br/como-fazer-seo-local/
+http://mygeoposition.com/ (Não sei se funciona)
+
+BetterDoctor	Detailed information about doctors in your area
+https://developer.betterdoctor.com/
+
+
+site de guia turistico, onde é informado a cidade, o que procura(lachonete, restaurantes, farmácias, postos de combustiveis...) e quais são os mais próximos de você, talvez seja possível informar o nome da rua que a pessoa está.
+Links:
+https://developer.foursquare.com/places-api
+https://99apis.com/card/foursquare-api
+https://99apis.com/card/google-maps-api
+https://99apis.com/localizacao
+https://99apis.com/card/apis-localizacao
+https://www.programmableweb.com/api/microsoft-bing-maps-query
+https://correiosapi.apphb.com/
+https://developers.google.com/maps/?hl=pt-br

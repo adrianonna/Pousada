@@ -1,0 +1,404 @@
+html {
+    width: auto;
+    height: auto;
+}
+
+@font-face {
+    font-family: 'Patrick Hand', cursive;
+    src: url('Fontes\PatrickHand-Regular.ttf');
+}
+
+h1, h2, h3 {
+    font-family: 'Patrick Hand', cursive;
+}
+
+p {
+    margin: 15px 0px 0px 0px;
+    line-height: 18px;
+}
+
+.main {
+    width: 70%;
+    margin: auto;
+    background-image: url(Fotos/Adamascado-Prata.jpg.pagespeed.ce.MFRLO19p57.jpg);
+    background-position: center;
+}
+
+body {
+    background-color: rgba(255, 255, 255, 0.70);
+}
+
+.topo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.bird {
+    background-image: url(Fotos/bird.png);
+    background-repeat: no-repeat;
+    background-size: 100% 90%;
+    background-position: bottom center;
+    height: 300px;
+    margin: auto;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    margin-top: 0;
+    padding: inherit;
+    padding-bottom: 20px;
+}
+
+.menu_item {
+    background-color: rgb(0, 0, 0);
+    border-radius: 80px;
+    -webkit-box-shadow: 3px -2px 18px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 3px -2px 18px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 3px -2px 18px 0px rgba(0, 0, 0, 0.75);
+    margin: 0 5px;
+    height: 25px;
+}
+
+.link {
+    text-decoration: none;
+    padding: 0px 14px;
+    height: 25px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.link:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+.menu_item:hover {
+    background-color: rgb(255, 255, 255);
+    border-radius: 80px;
+    transition-duration: 0.3s;
+}
+
+.img_ini {
+    width: auto;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    border-radius: 80px;
+    -webkit-box-shadow: 3px -2px 18px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 3px -2px 18px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.75);
+}
+
+.foto_entrada:hover {
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
+    transition-duration: 0.3s;
+}
+
+section {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+article {
+    background-color: rgba(255, 255, 255, 0.70);
+}
+
+.historia {
+    display: flex;
+    justify-content: space-around;
+}
+
+.infra {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.sobre {
+    margin-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: justify;
+    width: 50%;
+}
+
+.sobre h1 {
+    text-align: center;
+}
+
+#infra {
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+    padding-top: 0px;
+    margin: auto;
+}
+
+#local {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.lista_infra {
+    display: flex;
+    flex-direction: column;
+    padding-left: 30px;
+    margin: auto;
+}
+
+.itens_infra {
+    margin-top: 5px;
+}
+
+.mapa {
+    margin-top: 50px;
+}
+
+.local {
+    display: flex;
+}
+
+.descri_local {
+    text-align: justify;
+    padding: 0 15px 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.rodape {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 30px;
+    background-color: rgba(255, 255, 255, 0.70);
+    padding-top: 40px;
+}
+
+.formulario1 > p {
+    text-align: center;
+}
+
+.itens_form {
+    display: flex;
+    flex-direction: column;
+}
+
+.contato {
+    display: flex;
+}
+
+.social {
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+}
+
+.descri_span {
+    text-align: center;
+    color: black;
+}
+
+.link_social {
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.tel_contato {
+    margin-top: 50px;
+}
+
+.tel {
+    text-decoration: none;
+    color: black;
+}
+
+.mail {
+    text-decoration: none;
+    color: black;
+}
+
+@media all and (max-width: 1050px) {
+    #local {
+        margin: auto;
+    }
+
+    .descri_local {
+        margin-top: 50px;
+    }
+
+    .social_link{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .social_link > a{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .social_link a span{
+        margin-top: 10px;
+    }
+
+    .contatos{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media all and (max-width: 970px) {
+    .historia {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .lista_infra {
+        margin: auto;
+    }
+
+    .sobre {
+        width: 70%;
+        margin: auto;
+        padding: 0px 35px;
+    }
+
+    .local {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .mapa {
+        display: flex;
+        justify-content: center;
+    }
+
+    .descri_local {
+        width: 70%;
+        margin: 50px auto 0px;
+        padding: 0 35px;
+    }
+
+    .img_ini {
+        width: auto;
+        height: 200px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .menu {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 0;
+    }
+
+    .menu_item {
+        margin: 10px 0;
+    }
+
+    .bird {
+        background-image: url();
+        height: 240px;
+    }
+
+    .logo {
+        width: 360px;
+        height: 240px;
+    }
+
+    .rodape {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding-top: 50px;
+    }
+
+    .contatos {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-bottom: 20px;
+    }
+
+    .social {
+        margin-top: 0 !important;
+        margin-left: 0 !important;
+        align-items: center;
+    }
+
+    .descri_span{
+        display: flex;
+    }
+
+    .formulario1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .formulario1>p {
+        text-align: center;
+    }
+}
+
+@media all and (max-width: 700px) {
+    .sobre {
+        width: 80%;
+        padding: 0px;
+        margin: auto;
+    }
+
+    .historia {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .descri_local {
+        width: 80%;
+    }
+
+    .descri_local>p {
+        padding: 0px;
+    }
+}
+
+@media all and (max-width: 500px) {
+    input{
+        width: 200px;
+    }
+    textarea{
+        width: 200px;
+    }
+    .descri_span{
+        display: none;
+    }
+    .social_link{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
