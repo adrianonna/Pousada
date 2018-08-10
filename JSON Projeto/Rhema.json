@@ -1,0 +1,20 @@
+{
+  "title": "Rhema Hotel Pousada",
+  "description": "Localizar pontos comerciais ao redor do hotel.",
+  "preview": "",
+  "demo": "",
+  "repository": "https://adrianonna.github.io/ProjetoJS/",
+  "course": "cstsi",
+  "session": "2018.1",
+  "subject": "ls",
+  "campus": "João Pessoa",
+  "topics": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "owners": [
+    20162370039,
+    20152370352
+  ]
+}
