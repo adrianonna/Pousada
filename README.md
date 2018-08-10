@@ -1,6 +1,6 @@
 # Rhema Hotel Pousada
 
-<a href="https://github.com/adrianonna/projetoLM/blob/master/fotos/logo.png?raw=true" target="_blank"><img src="https://github.com/adrianonna/projetoLM/blob/master/fotos/logo.png?raw=true" alt="alt text" style="max-width:100%;"></a>
+![screenshort](fotos/LogoReadme.png)
 
 [Rhema Hotel Pousada](http://rhemahotelpousada.github.io)
 
